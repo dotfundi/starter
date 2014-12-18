@@ -1,4 +1,5 @@
 #Install
+- git clone https://github.com/dotfundi/starter.git
 - bower install && npm install
 
 #Change Module Name 
